@@ -4,6 +4,9 @@
 
 The idea of employing surveillance cameras to detect harassment against women on roads and promptly provide location information to law enforcement arises from the urgent necessity to combat gender-based violence and ensure the safety of women in public spaces. Harassment and assault against women in public areas are pervasive issues in many societies, causing physical and psychological harm, limiting women's freedom of movement, and perpetuating gender inequality. While the implementation of surveillance camera systems has become increasingly common in urban environments to enhance public safety and crime prevention, their potential to specifically address gender-based violence has not been fully explored. By leveraging computer vision and machine learning technologies, it is possible to develop intelligent systems that can actively detect and respond to instances of harassment, thereby creating a safer environment for women.
 
+#### Objective:
+The main goal of this project is to use surveillance cameras to make public spaces safer for women by quickly detecting and responding to instances of harassment or violence. By using advanced technology, such as facial recognition and location tracking, we aim to help law enforcement authorities intervene faster and prevent gender-based violence.
+
 #### Innovative Solution:
 
 CCTV cameras detecting a crime scene and immediately transmitting a signal, along with location information, to the police. This concept builds upon the previous explanation, with added emphasis on transmitting location details to enhance the effectiveness of law enforcement response. Here is an expanded overview:

@@ -33,3 +33,11 @@ CCTV cameras detecting a crime scene and immediately transmitting a signal, alon
 	- Computer-Aided Dispatch (CAD) Systems: The CCTV system can interface with CAD systems used by the police to receive and manage emergency calls and incidents.
 	- Geographic Information Systems (GIS): Integrating with GIS platforms allows for mapping and visualization of crime locations and optimal route planning for police dispatch.
 7. **Data Storage and Management:** The CCTV system requires storage infrastructure to store the captured video footage for review and potential evidence. This can involve on-site or cloud-based storage solutions, depending on the scale and requirements of the system.
+
+#### Privacy and Ethical Considerations
+
+It's essential to address privacy concerns and ensure the responsible use of surveillance technology. This includes implementing data encryption, access controls, and adherence to legal frameworks such as GDPR. Community engagement and collaboration are also crucial to building trust and ensuring that the solution aligns with the values of the community.
+
+#### Contribution Guidelines
+
+We welcome contributions from developers, researchers, and stakeholders interested in improving the effectiveness of surveillance technology in combating gender-based violence. Please refer to the ```Contribute.md``` for more information on how to contribute to this project.

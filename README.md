@@ -33,3 +33,21 @@ CCTV cameras detecting a crime scene and immediately transmitting a signal, alon
 	- Computer-Aided Dispatch (CAD) Systems: The CCTV system can interface with CAD systems used by the police to receive and manage emergency calls and incidents.
 	- Geographic Information Systems (GIS): Integrating with GIS platforms allows for mapping and visualization of crime locations and optimal route planning for police dispatch.
 7. **Data Storage and Management:** The CCTV system requires storage infrastructure to store the captured video footage for review and potential evidence. This can involve on-site or cloud-based storage solutions, depending on the scale and requirements of the system.
+
+**Installation**
+
+1. **Fork the `ALL_INDIA_HACKATHON/` repository** 
+   Follow these instructions on [how to fork a repository](https://help.github.com/en/articles/fork-a-repo)
+
+2. Clone the repository to your local machine.
+```
+git clone git@github.com:your-username/ALL_INDIA_HACKATHON.git
+```
+3. Clone the repository to your local machine.(from HTTPS)
+```
+https://github.com/your-username/ALL_INDIA_HACKATHON.git
+```
+4. Install `requirements.txt` file for all Python Libraries.
+```
+pip install -r requirements.txt
+```

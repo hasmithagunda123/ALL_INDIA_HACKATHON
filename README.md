@@ -71,7 +71,7 @@ CCTV cameras detecting a crime scene and immediately transmitting a signal, alon
 
 By addressing these areas, the "Watchful Guardian" system can become more robust and responsive in combating gender-based violence.
 
-**Installation**
+ ### Installation
 
 1. **Fork the `ALL_INDIA_HACKATHON/` repository** 
    Follow these instructions on [how to fork a repository](https://help.github.com/en/articles/fork-a-repo)

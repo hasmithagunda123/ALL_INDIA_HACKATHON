@@ -6,11 +6,12 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 > And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:
 > - Star the project
-> - Refer this project in your project's readme
+> - Refer to this project in your project's readme
 
 
 ## Table of Contents
 
+- [Code of Conduct](https://github.com/hasmithagunda123/ALL_INDIA_HACKATHON/blob/main/CODE_OF_CONDUCT.md)
 - [I Have a Question](#i-have-a-question)
 - [I Want To Contribute](#i-want-to-contribute)
 - [Reporting Bugs](#reporting-bugs)
@@ -42,14 +43,14 @@ We will then take care of the issue as soon as possible.
 ## I Want To Contribute
 
 > ### Legal Notice 
-> When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
+> When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content, and that the content you contribute may be provided under the project license.
 
 ### Reporting Bugs
 
 
 #### Before Submitting a Bug Report
 
-A good bug report shouldn't leave others needing to chase you up for more information. Therefore, we ask you to investigate carefully, collect information and describe the issue in detail in your report. Please complete the following steps in advance to help us fix any potential bug as fast as possible.
+A good bug report shouldn't leave others needing to chase you up for more information. Therefore, we ask you to investigate carefully, collect information, and describe the issue in detail in your report. Please complete the following steps in advance to help us fix any potential bug as fast as possible.
 
 - Make sure that you are using the latest version.
 - Determine if your bug is really a bug and not an error on your side e.g. using incompatible environment components/versions (Make sure that you have read the [documentation](). If you are looking for support, you might want to check [this section](#i-have-a-question)).
@@ -58,14 +59,14 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 - Collect information about the bug:
     - Stack trace (Traceback)
     - OS, Platform and Version (Windows, Linux, macOS, x86, ARM)
-    - Version of the interpreter, compiler, SDK, runtime environment, package manager, depending on what seems relevant.
+    - Version of the interpreter, compiler, SDK, runtime environment, and package manager, depending on what seems relevant.
     - Possibly your input and the output
     - Can you reliably reproduce the issue? And can you also reproduce it with older versions?
 
 
 #### How Do I Submit a Good Bug Report?
 
-> You must never report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public.
+> You must never report security-related issues, vulnerabilities, or bugs including sensitive information to the issue tracker, or elsewhere in public.
 
 
 We use GitHub issues to track bugs and errors. If you run into an issue with the project:
@@ -83,7 +84,7 @@ Once it's filed:
 
 ### Suggesting Enhancements
 
-This section guides you through submitting an enhancement suggestion for this repo, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
+This section guides you through submitting an enhancement suggestion for this repo, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestions and find related suggestions.
 
 
 #### Before Submitting an Enhancement
@@ -100,6 +101,6 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/hasmit
 
 - Use a **clear and descriptive title** for the issue to identify the suggestion.
 - Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
-- **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
-- You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. 
+- **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point, you can also tell which alternatives do not work for you.
+- You may want to **include screenshots and animated GIFs** that help you demonstrate the steps or point out the part to which the suggestion is related. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. 
 - **Explain why this enhancement would be useful** to the users of this repo. You may also want to point out the other projects that solved it better and which could serve as inspiration.

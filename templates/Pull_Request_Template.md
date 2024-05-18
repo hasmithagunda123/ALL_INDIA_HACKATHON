@@ -2,24 +2,30 @@
 [Summary of the changes made]
 
 ## Description
-[Detailed description of the changes made]
 
-## Linked Issue
-Please link the issue that this PR resolves in the format: `#[issue_number] [issue_name]`
+> The changes made in this pull request should be briefly described.
 
-## Changes and Additions
-- [List of changes and additions]
-
-## Testing and Validation
-[Describe how the changes were tested and validated]
-
-## Additional Context or Information
-[Provide any additional details relevant to the PR]
+## Resolves: [Issue Number]
 
 ## Checklist
-Please ensure you've completed the following tasks:
-- [ ] Code is up to date with the project's latest version
-- [ ] All tests have been run and passed
-- [ ] Code has been reviewed for correctness and readability
-- [ ] Followed the project's coding guidelines
 
+> Before submitting this pull request, kindly verify that the ensuing checkpoints have been reached.
+
+- [ ] Have you adhered to the repository's defined coding convention rules?
+- [ ] Have you updated the 'documentation.md' file with the method/function documentation?
+- [ ] Have you sent a message along with the result or response?
+- [ ] Have you used the try-catch technique?
+- [ ] Has the method/class been added to the documentation (md file)?
+
+## Screenshots
+
+> Uploading a screenshot illustrating the approach you developed for validation is required.
+
+## Additional Notes/Comments
+
+> Any additional remarks or suggestions concerning this pull request are welcome.
+
+---
+
+I certify that I have carried out the relevant checks and provided the requisite screenshot for validation by submitting this pull request.
+I appreciate your contribution.

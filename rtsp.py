@@ -18,4 +18,24 @@ while(cap.isOpened):
         break
 
     ## Further Code Goes Here
+
+import cv2
+
+rtsp_url = "rtsp://username:password@ip_address:554/path"
+
+cap = cv2.VideoCapture(rtsp_url)
+
+while True:
+    ret, frame = cap.read()
+    if not ret:
+        print("Error reading frame from RTSP stream")
+        break
+    
+    cv2.imshow("RTSP Stream", frame)
+    
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+cap.release()
+cv2.destroyAllWindows()
     

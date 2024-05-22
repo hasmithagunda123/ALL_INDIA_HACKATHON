@@ -36,8 +36,25 @@ We will then take care of the issue as soon as possible.
 
 ## I Want To Contribute
 
-> ### Legal Notice 
-> When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content, and that the content you contribute may be provided under the project license.
+### 1. Coding Standards
+- Follow the coding style and conventions used throughout the project.
+- Ensure your code is well-documented and includes comments where necessary.
+- Use meaningful variable and function names that reflect their purpose.
+- Write clear and concise code that is easy to understand and maintain.
+
+### 2. Submitting Pull Requests
+To contribute code changes or new features, follow these steps:
+
+1. Fork the repository and create a new branch from `main`.
+2. Make your changes in the new branch.
+3. Test your changes thoroughly to ensure they work as expected.
+4. Commit your changes with clear and descriptive commit messages.
+5. Push your changes to your forked repository.
+6. Submit a pull request to the `main` branch of the original repository.
+7. Provide a detailed description of the changes made and why they are necessary.
+ 
+>### Legal Notice 
+When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content, and that the content you contribute may be provided under the project license.
 
 ## Reporting Bugs
 

@@ -34,6 +34,71 @@ CCTV cameras detecting a crime scene and immediately transmitting a signal, alon
 	- Geographic Information Systems (GIS): Integrating with GIS platforms allows for mapping and visualization of crime locations and optimal route planning for police dispatch.
 7. **Data Storage and Management:** The CCTV system requires storage infrastructure to store the captured video footage for review and potential evidence. This can involve on-site or cloud-based storage solutions, depending on the scale and requirements of the system.
 
+### Setup Instructions
+
+#### Prerequisites
+1. Python 3.7 or higher
+2. Git
+
+**Clone the Repository**
+``` 
+git clone https://github.com/yourusername/watchful-guardian.git
+cd watchful-guardian
+```
+**Setting up OpenCV**
+1. Install OpenCV 
+```
+pip install opencv-python
+```
+```
+pip install opencv-python-headless  # If you are using a headless server
+```
+
+2. Verify Installation 
+```
+import cv2
+print(cv2.__version__)
+```
+
+**Setting up TensorFlow**
+1. Install TensorFlow 
+```
+pip install tensorflow 
+```
+
+2. Verify Installation
+```
+import tensorflow as tf
+print(tf.__version__)
+```
+**Addittional Dependencies**
+
+Install other addittional libraries
+```
+pip install numpy pandas requests
+```
+**Configuring the Project**
+
+1. Modify the configuration files located in the config directory to suit your setup. This includes specifying paths for video input, setting up database connections, and configuring alert transmission settings.
+2. Ensure your database is set up correctly. You might need to create the necessary tables and set up a connection string in the configuration file.
+
+### Running Application
+**1.Start the Application**
+```
+python main.py
+```
+**2.Monitor logs**
+Check the logs to ensure the system is running smoothly and to debug any issues.
+
+### Usage
+**Real-Time Monitoring**
+
+The system will start analyzing the video feeds in real-time and trigger alerts based on the predefined criteria.
+
+**Notifications & Alerts**
+
+Alerts will be sent to the specified command center or law enforcement with the video footage and location details.
+
 ### Areas of Improvement for the "Watchful Guardian" System
 
 1. **Privacy Protection:**

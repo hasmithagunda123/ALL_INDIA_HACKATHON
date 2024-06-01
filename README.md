@@ -135,3 +135,19 @@ Alerts will be sent to the specified command center or law enforcement with the 
    - Regularly assess the system's impact and identify areas for enhancement.
 
 By addressing these areas, the "Watchful Guardian" system can become more robust and responsive in combating gender-based violence.
+
+## 💪 Thanks to all Contributors
+
+Thanks to all contributors for helping this project grow! 🍻
+
+<a href=" https://github.com/hasmithagunda123/ALL_INDIA_HACKATHON/graphs/contributors ">
+  <img src="https://contrib.rocks/image?repo=hasmithagunda123/ALL_INDIA_HACKATHON" />
+</a>
+
+## 🙏 Support
+
+Don't forget to leave a star ⭐ for this project!
+
+Crafted with ♥ by @hasmithagunda123
+
+

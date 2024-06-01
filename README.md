@@ -133,8 +133,6 @@ Alerts will be sent to the specified command center or law enforcement with the 
 8. **Continuous Evaluation and Improvement:**
    - Establish a process for continuous evaluation based on feedback and data analysis.
    - Regularly assess the system's impact and identify areas for enhancement.
-Absolutely, incorporating instructions for first-time contributors on how to contribute to the project is crucial for fostering a welcoming and supportive environment. Here's how you can integrate this into your repository's README.md file:
-
 ---
 
 ## Overview
